@@ -1,6 +1,7 @@
 {
   "language": "en",
   "words": [
+group5Intro
     "abraha",
     "Adama",
     "ASTU",
@@ -9,6 +10,10 @@
     "haftu",
     "Nepo",
     "tesfay"
+    "Rasaq",
+    "Adeleke",
+    "photoshop",
+    "Colab"
   ],
   "ignorePaths": [
     "node_modules/**",
