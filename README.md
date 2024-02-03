@@ -12,7 +12,7 @@ realms of HTML, CSS, and JS. Exciting times ahead! 💻🎶
 Let's put faces to the code! Our stellar developers:
 
 - [Rasaq](./members/rasaq.md) 🚀
-- [Etefa](./members/Etefa.md) 🌠
+- [Etefa](./members/etefa.md) 🌠
 - [Tesfay](./members/tesfay20.md) 🌟
 
 ## Our Project
