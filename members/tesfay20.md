@@ -4,7 +4,7 @@
 
 ---
 
-# About me
+## About me
 
 Hello everyone 👋! My origin is from Ethiopia. I came to Belgium in 2019. By
 profession i am **Biotechnologist** with teaching in higher education and
