@@ -1,11 +1,10 @@
-
-# hello all HYF
+# Hello all HYF
 
 ## Etefa G. Dinssa
 
 ---
 
-![alt text](image.png)
+![Etefa Profile Picture](./img/etefa.jpeg)
 
 ---
 
@@ -21,15 +20,19 @@
 
 ---
 
-### About Myself
+## About Myself
 
-## I was born and grow up in Ethiopia. I was working as a university teacher and researcher in Ethiopia. I was also working as guest researcher at Ghent university. I have published several research papers in reputable journals in the field of environmental studies. I am living in Ghent since July 2022
+I was born and grew up in Ethiopia. I was working as a university teacher and
+researcher in Ethiopia. I was also working as a guest researcher at Ghent university.
+I have published several research papers in reputable journals in the field of
+environmental studies. I am living in Ghent since July 2022.
 
-### Education
+## Education
 
-## I have Bachlor and Masters degree in science and also obtained my PhD degee from Ghent university, Belgium in geography
+I have a Bachelor's and Master's degree in science. I also obtained my PhD degree
+from Ghent University, Belgium, in geography.
 
-### Relevant Skills
+## Relevant Skills
 
 - HTML
 - CSS
